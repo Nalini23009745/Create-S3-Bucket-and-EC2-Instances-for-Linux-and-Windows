@@ -1,5 +1,5 @@
  # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
-
+###ygyugyyffrrrryfytfydudud
 ## AIM :
 To create an S3 bucket and EC2 instances for both Linux and Windows operating systems on AWS.
 
@@ -38,8 +38,7 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-### REG NUMBER : 212222100036
-### NAME : PRAVEEN B V
+
 
 # OUTPUT
 
