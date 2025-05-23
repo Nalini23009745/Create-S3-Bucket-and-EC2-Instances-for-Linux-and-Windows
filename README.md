@@ -1,5 +1,4 @@
  # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
-###ygyugyyffrrrryfytfydudud
 ## AIM :
 To create an S3 bucket and EC2 instances for both Linux and Windows operating systems on AWS.
 
